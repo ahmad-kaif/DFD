@@ -1,9 +1,5 @@
 # DeepFake-Detect
 
-<p align="center"><a href="https://deepfake-detect.com/"><img alt="" src="https://github.com/aaronchong888/DeepFake-Detect/blob/master/img/dfdetect-home.png" width="60%"></a></p>
-
-<p align="center"><a href="https://deepfake-detect.com/">https://deepfake-detect.com/</a></p>
-
 ## Description
 Trying to make a deepfake detection model
 
