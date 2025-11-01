@@ -18,7 +18,6 @@ Trying to make a deepfake detection model
 ## Getting Started
 
 ### Prerequisites
-
 - Python 3
 - Keras
 - TensorFlow
